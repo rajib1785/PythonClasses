@@ -24,7 +24,7 @@ elif Num_1 > Num_2:
     elif Num_3 > Num_1:
         print('c > a > b')
     else:
-        print('a > b > c')
+        print('a > c > b')
 elif Num_2 > Num_3:
     if Num_3 > Num_1:
         print('b > c > a')
